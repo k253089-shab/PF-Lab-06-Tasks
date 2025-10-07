@@ -21,8 +21,8 @@ int main()
         quotient++;
     }
     
-    printf("\n%d", product);
-    printf("\n%d", quotient);
+    printf("\nMultiplication result: %d", product);
+    printf("\nDivision result: %d", quotient);
 
     return 0;
 }
