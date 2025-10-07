@@ -16,7 +16,7 @@ int main()
     
     int divide=num1;
     int quotient=0;
-    while(divide<=num1 && divide>0){
+    while(divide<=num1 && divide>=num2){
         divide = divide - num2;
         quotient++;
     }
